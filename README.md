@@ -117,7 +117,7 @@ A restaurant management system built in **C++** for the **Estruturas de Dados e 
 
 
 
-### 🕵️ Sherlock Holmes Game
+### 🕵️ [Sherlock Holmes Game](https://github.com/FGouveia7/JogoSherlockHolmes)
 
 > Java · NetBeans · Terminal Game · OOP
 
@@ -130,8 +130,6 @@ Interactive detective game that runs **directly in the terminal**, developed in 
 No browser. No GUI. Just pure logic, text, and decisions — just like classic text-based games. The project demonstrates mastery of **Object-Oriented Programming** in Java: classes, inheritance, encapsulation, and game state management throughout the session.
 
 
-
-🔗 [View repository](https://github.com/FGouveia7/JogoSherlockHolmes)
 
 ### 🌐 [Teórico Prática DBW](https://github.com/FGouveia7/TeoricoPraticaDBW)
 > JavaScript · Web Development
