@@ -111,7 +111,7 @@ A restaurant management system built in **C++** for the **Estruturas de Dados e 
 
 ### 🕵️ Sherlock Holmes Game
 
-> `Java` · `NetBeans` · `Terminal Game` · `OOP`
+> Java · NetBeans · Terminal Game · OOP
 
 
 
