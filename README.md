@@ -39,7 +39,6 @@ francisco = {
 | [ Máquina de Multibanco](https://github.com/FGouveia7/M-quina-De-Multibanco) | `Sistemas Digitais` | Simulação com lógica digital, gestão de estados e eletrónica digital |
 | [ Projeto EDA Restaurante](https://github.com/FGouveia7/ProjetoEDARestaurante) | `C++` | Sistema de gestão com estruturas de dados e algoritmos |
 | [ Jogo Sherlock Holmes](https://github.com/FGouveia7/JogoSherlockHolmes) | `Java` | Jogo interativo no terminal ,inspirado na lógica da serie Sherlock Holmes |
-| [ Jogo do Número Misterioso](https://github.com/FGouveia7/Jogo-do-Numero-misterioso) | `Python` | Meu primeiro jogo feito e meu primeiro contato com a linguagem python! |
 | [ TeoricoPraticaDBW](https://github.com/FGouveia7/TeoricoPraticaDBW) | `CSS,HTML,JavaScript` | Site desenvolvido ao longo do ano na cadeira Desenvolvimento baseado na Web |
 
 ---
