@@ -35,9 +35,9 @@ francisco = {
 | [🖥️ Processador 8-bits em VHDL](https://github.com/FGouveia7/Implementacao-Processador-de-8-bits-em-VHDL) | `VHDL` | Processador Harvard single-cycle completo (ALU, ROM, RAM, PC, flags) com deploy para FPGA Artix-7 |
 | [🏧 Máquina de Multibanco](https://github.com/FGouveia7/M-quina-De-Multibanco) | `Sistemas Digitais` | Simulação com lógica digital, gestão de estados e eletrónica digital |
 | [🍽️ Projeto EDA Restaurante](https://github.com/FGouveia7/ProjetoEDARestaurante) | `C++` | Sistema de gestão com estruturas de dados e algoritmos |
-| [🕵️ Jogo Sherlock Holmes](https://github.com/FGouveia7/JogoSherlockHolmes) | `Java` | Jogo interativo inspirado no universo de Sherlock Holmes |
-| [🎲 Jogo do Número Misterioso](https://github.com/FGouveia7/Jogo-do-Numero-misterioso) | `Python` | Adivinha o número em 3 tentativas — com dicas! |
-| [🌐 TeoricoPraticaDBW](https://github.com/FGouveia7/TeoricoPraticaDBW) | `React.js · Tailwind CSS` | App web com bases de dados não relacionais |
+| [🕵️ Jogo Sherlock Holmes](https://github.com/FGouveia7/JogoSherlockHolmes) | `Java` | Jogo interativo no terminal ,inspirado na lógica da serie Sherlock Holmes |
+| [🎲 Jogo do Número Misterioso](https://github.com/FGouveia7/Jogo-do-Numero-misterioso) | `Python` | Meu primeiro jogo feito e meu primeito contato com a linguagem python! |
+| [🌐 TeoricoPraticaDBW](https://github.com/FGouveia7/TeoricoPraticaDBW) | `EJS,CSS,` | Site desenvolvido ao longo do ano na cadeira Desenvolvimento baseado na Web |
 
 ---
 
