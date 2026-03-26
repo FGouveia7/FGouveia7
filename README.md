@@ -53,7 +53,6 @@ I enjoy building projects that challenge me to think at every level of the stack
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-7B1FA2?style=flat-square)
 
-
 ---
 
 ## 📁 Projects
@@ -115,21 +114,14 @@ A restaurant management system built in **C++** for the **Estruturas de Dados e 
 
 ---
 
-
-
 ### 🕵️ [Sherlock Holmes Game](https://github.com/FGouveia7/JogoSherlockHolmes)
-
 > Java · NetBeans · Terminal Game · OOP
-
-
 
 Interactive detective game that runs **directly in the terminal**, developed in **Java using NetBeans**.
 
-
-
 No browser. No GUI. Just pure logic, text, and decisions — just like classic text-based games. The project demonstrates mastery of **Object-Oriented Programming** in Java: classes, inheritance, encapsulation, and game state management throughout the session.
 
-
+---
 
 ### 🌐 [Teórico Prática DBW](https://github.com/FGouveia7/TeoricoPraticaDBW)
 > JavaScript · Web Development
@@ -186,3 +178,4 @@ I'm always open to connecting with other students, developers, and anyone intere
 <div align="center">
 <sub>Built with curiosity and a lot of ☕</sub>
 </div>
+
