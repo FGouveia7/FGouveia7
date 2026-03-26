@@ -4,7 +4,7 @@
 
 **Computer Engineering Student @ University of Madeira**
 
-*19 years old · Passionate about Data Science & Machine Learning*
+*19 years old*
 
 [![GitHub](https://img.shields.io/badge/GitHub-FGouveia7-181717?style=flat-square&logo=github)](https://github.com/FGouveia7)
 ![Age](https://img.shields.io/badge/Age-19-blue?style=flat-square)
