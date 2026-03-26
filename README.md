@@ -145,9 +145,16 @@ Theoretical and practical exercises developed for the **Database and Web (DBW)**
 
 <div align="center">
 
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FGouveia7&show_icons=true&theme=tokyonight&hide_border=true)
+<a href="https://github.com/FGouveia7">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FGouveia7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FGouveia7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FGouveia7&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=FGouveia7&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
