@@ -18,8 +18,8 @@ Estudante de **Engenharia Informática** na Universidade da Madeira, com interes
 ```python
 <pre>
 francisco = {
-    "universidade": "Universidade da Madeira <img src="https://uma.pt" width="18" valign="middle">",
-    "localização":  "Madeira, Portugal <img src="https://cloudflare.com" width="18" valign="middle">",
+    "universidade": "Universidade da Madeira",
+    "localização":  "Madeira, Portugal ",
     "foco_atual":   ["Ciência de Dados", "Machine Learning", "IA"],
     "linguagens":   ["Python", "Java", "C++", "JavaScript", "VHDL"],
     "frontend":     ["React.js", "Tailwind CSS", "HTML5"],
