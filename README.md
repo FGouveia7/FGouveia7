@@ -116,7 +116,7 @@ A restaurant management system built in **C++** for the **Estruturas de Dados e 
 
 
 
-Interactive detective game that runs **directly in the terminal**, developed in **Java using NetBeans**. The player takes on the role of Sherlock Holmes and navigates through an investigative narrative by making choices in the command line.
+Interactive detective game that runs **directly in the terminal**, developed in **Java using NetBeans**.
 
 
 
