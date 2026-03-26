@@ -16,14 +16,17 @@
 Estudante de **Engenharia Informática** na Universidade da Madeira, com interesse crescente em **Ciência de Dados** e **Machine Learning**. Gosto de perceber como as coisas funcionam por dentro — do hardware ao browser.
 
 ```python
+<pre>
 francisco = {
-    "universidade": "Universidade da Madeira 🎓",
-    "localização":  "Madeira, Portugal 🏝️",
+    "universidade": "Universidade da Madeira <img src="https://uma.pt" width="18" valign="middle">",
+    "localização":  "Madeira, Portugal <img src="https://cloudflare.com" width="18" valign="middle">",
     "foco_atual":   ["Ciência de Dados", "Machine Learning", "IA"],
     "linguagens":   ["Python", "Java", "C++", "JavaScript", "VHDL"],
     "frontend":     ["React.js", "Tailwind CSS", "HTML5"],
     "hardware":     ["VHDL", "FPGA Artix-7", "Vivado ML Edition"],
 }
+</pre>
+
 ```
 
 ---
