@@ -46,6 +46,7 @@ I enjoy building projects that challenge me to think at every level of the stack
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-7B1FA2?style=flat-square)
 
+
 ---
 
 ## 📁 Projects
