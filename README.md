@@ -107,18 +107,23 @@ A restaurant management system built in **C++** for the **Estruturas de Dados e 
 
 ---
 
-### 🕵️ [Jogo Sherlock Holmes](https://github.com/FGouveia7/JogoSherlockHolmes)
-> HTML · JavaScript · Browser Game
 
-An interactive detective-themed browser game built with **HTML, CSS, and JavaScript**, inspired by the Sherlock Holmes universe. Implements:
 
-- **Client-side game logic** entirely in vanilla JavaScript — no frameworks, no libraries
-- **DOM manipulation** for dynamic UI updates and scene transitions
-- **Narrative branching** — player choices affect the story progression
-- **State tracking** — manages clues collected, suspects, and game progress in-browser
-- Styled with thematic **CSS design** evoking the atmosphere of Victorian-era detective fiction
+### 🕵️ Sherlock Holmes Game
 
----
+> `Java` · `NetBeans` · `Terminal Game` · `OOP`
+
+
+
+Interactive detective game that runs **directly in the terminal**, developed in **Java using NetBeans**. The player takes on the role of Sherlock Holmes and navigates through an investigative narrative by making choices in the command line.
+
+
+
+No browser. No GUI. Just pure logic, text, and decisions — just like classic text-based games. The project demonstrates mastery of **Object-Oriented Programming** in Java: classes, inheritance, encapsulation, and game state management throughout the session.
+
+
+
+🔗 [View repository](https://github.com/FGouveia7/JogoSherlockHolmes)
 
 ### 🌐 [Teórico Prática DBW](https://github.com/FGouveia7/TeoricoPraticaDBW)
 > JavaScript · Web Development
