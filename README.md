@@ -16,7 +16,7 @@
 Estudante de **Engenharia Informática** na Universidade da Madeira, com interesse crescente em **Ciência de Dados** e **Machine Learning**. Gosto de perceber como as coisas funcionam por dentro — do hardware ao browser.
 
 ```python
-<pre>
+
 francisco = {
     "universidade": "Universidade da Madeira",
     "localização":  "Madeira, Portugal ",
@@ -25,7 +25,7 @@ francisco = {
     "frontend":     ["React.js", "Tailwind CSS", "HTML5"],
     "hardware":     ["VHDL", "FPGA Artix-7", "Vivado ML Edition"],
 }
-</pre>
+
 
 ```
 
