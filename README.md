@@ -2,7 +2,7 @@
 
 # Francisco Gouveia
 
-**Computer Engineering Student @ University of Madeira**
+**Computer Science Student @ University of Madeira**
 
 [![GitHub](https://img.shields.io/badge/GitHub-FGouveia7-181717?style=flat-square&logo=github)](https://github.com/FGouveia7)
 ![Age](https://img.shields.io/badge/Age-19-blue?style=flat-square)
