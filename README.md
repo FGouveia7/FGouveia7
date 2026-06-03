@@ -15,9 +15,9 @@
 
 ## About Me
 
-I am a 19-year-old Computer Engineering student at the **University of Madeira**, passionate about building reliable and well-structured systems — from low-level processor design in VHDL to data pipelines and full-stack applications.
+I am a 19-year-old Computer Science student at the **University of Madeira**, passionate about building the concept of reliable and well-structured systems from low-level programming to data pipelines and full-stack applications.
 
-My main interest lies in **Data Engineering and Software Development**: designing systems that move, transform, and make sense of data at scale. I am drawn to the intersection of solid engineering principles and data-driven thinking — building infrastructure that enables better decisions.
+My main interest lies in **Data Engineering and Software Development**: designing systems that move, transform, and make sense of data at scale. I am drawn to the intersection of solid engineering principles and data-driven thinking building infrastructure that enables better decisions.
 
 I am actively steering my career toward **data infrastructure, backend systems, and data-intensive applications**.
 
@@ -56,8 +56,8 @@ I am actively steering my career toward **data infrastructure, backend systems, 
 
 ## Currently Focused On
 
-- **DataCamp — Data Engineer with Python** *(in progress)*
-- **DataCamp — Data Engineer with SQL** *(in progress)*
+- **DataCamp - Data Engineer with Python** *(in progress)*
+- **DataCamp - Data Engineer with SQL** *(in progress)*
 - Learning **NumPy**, **Pandas** and **Matplotlib** for data manipulation and analysis
 
 ---
