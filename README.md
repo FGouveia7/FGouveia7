@@ -15,15 +15,15 @@
 
 ## About Me
 
-I'm a 19-year-old Computer Engineering student at the **University of Madeira**, passionate about building things that actually work — from low-level processor design in VHDL to data pipelines and full-stack applications.
+I am a 19-year-old Computer Engineering student at the **University of Madeira**, passionate about building reliable and well-structured systems — from low-level processor design in VHDL to data pipelines and full-stack applications.
 
-My main interest lies in **Data Engineering and Software Development**: designing systems that move, transform, and make sense of data at scale. I'm drawn to the intersection of solid engineering principles and data-driven thinking — building infrastructure that enables better decisions.
+My main interest lies in **Data Engineering and Software Development**: designing systems that move, transform, and make sense of data at scale. I am drawn to the intersection of solid engineering principles and data-driven thinking — building infrastructure that enables better decisions.
 
-I enjoy working across the full stack, from hardware-level design to web interfaces, but I'm actively steering my career toward **data infrastructure, backend systems, and data-intensive applications**.
+I am actively steering my career toward **data infrastructure, backend systems, and data-intensive applications**.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -53,60 +53,60 @@ I enjoy working across the full stack, from hardware-level design to web interfa
 
 ---
 
-## 🎯 Currently Focused On
+## Currently Focused On
 
-- 📚 **DataCamp — Data Engineer with Python** *(in progress)*
-- 📚 **DataCamp — Data Engineer with SQL** *(in progress)*
+- **DataCamp — Data Engineer with Python** *(in progress)*
+- **DataCamp — Data Engineer with SQL** *(in progress)*
 - Learning **NumPy**, **Pandas** and **Matplotlib** for data manipulation and analysis
 - Preparing the oral defense for my **8-bit FPGA processor** implementation
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
-### ⚙️ [8-bit Processor in VHDL](https://github.com/FGouveia7/Implementacao-Processador-de-8-bits-em-VHDL)
+### [8-bit Processor in VHDL](https://github.com/FGouveia7/Implementacao-Processador-de-8-bits-em-VHDL)
 > VHDL · Computer Architecture · FPGA
 
 A complete **Harvard architecture single-cycle 8-bit processor** targeting the Artix-7 FPGA (Nexys A7-100T). Built from scratch in Vivado ML: ALU, ROM, RAM, Program Counter, Control Unit, Flags Register, Peripherals Manager, and a custom instruction set (`ADD`, `SUB`, `JMP`, `JZ`, `STORE`, `LOAD`, and more). Full synthesis and simulation validated.
 
 ---
 
-### 🏧 [Multibanco Machine](https://github.com/FGouveia7/M-quina-De-Multibanco)
+### [Multibanco Machine](https://github.com/FGouveia7/M-quina-De-Multibanco)
 > VHDL · Digital Systems · FSM
 
 A fully functional ATM simulation for the Digital Systems course. Implements a **Finite State Machine** to manage all ATM states — idle, PIN validation, balance inquiry, withdrawal, deposit — with clean, well-defined state transitions.
 
 ---
 
-### 🍽️ [Restaurant Management System](https://github.com/FGouveia7/ProjetoEDARestaurante)
+### [Restaurant Management System](https://github.com/FGouveia7/ProjetoEDARestaurante)
 > C++ · Data Structures & Algorithms
 
 A restaurant management system demonstrating core **data structures** in practice: queues (FIFO customer flow), linked lists (tables, clients, menus), file persistence (save/load state), and a modular multi-file architecture using CMake.
 
 ---
 
-### 🕵️ [Sherlock Holmes Game](https://github.com/FGouveia7/JogoSherlockHolmes)
+### [Sherlock Holmes Game](https://github.com/FGouveia7/JogoSherlockHolmes)
 > Java · OOP · Terminal Game
 
-A terminal-based detective game showcasing solid **OOP design** in Java — classes, inheritance, encapsulation, and game state management across a full interactive session.
+A terminal-based detective game showcasing solid **OOP design** in Java — classes, inheritance, encapsulation, and game state management throughout the session.
 
 ---
 
-### 🎯 [Jogo do Número Misterioso](https://github.com/FGouveia7/Jogo-do-Numero-misterioso)
+### [Jogo do Numero Misterioso](https://github.com/FGouveia7/Jogo-do-Numero-misterioso)
 > Python · Game Logic
 
-A Python number-guessing game with random generation, hint feedback (too high / too low), and a 3-attempt limit. Clean, minimal, functional.
+A Python number-guessing game with random generation, hint feedback (too high / too low), and a 3-attempt limit.
 
 ---
 
-### 🌐 [Teórico Prática DBW](https://github.com/FGouveia7/TeoricoPraticaDBW)
+### [Teorico Pratica DBW](https://github.com/FGouveia7/TeoricoPraticaDBW)
 > JavaScript · Web Development
 
 Theoretical and practical web development exercises covering JavaScript fundamentals, client-server interaction, dynamic content rendering, and event-driven programming.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -125,9 +125,9 @@ Theoretical and practical web development exercises covering JavaScript fundamen
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
-Always open to connecting with other students, developers, and anyone working in Data Engineering or Software Development.
+Open to connecting with other students, developers, and anyone working in Data Engineering or Software Development.
 
 <div align="center">
 
@@ -138,5 +138,5 @@ Always open to connecting with other students, developers, and anyone working in
 ---
 
 <div align="center">
-<sub>Built with curiosity and a lot of ☕</sub>
+<sub>Built with curiosity and a lot of coffee.</sub>
 </div>
