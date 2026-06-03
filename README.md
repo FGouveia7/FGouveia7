@@ -35,12 +35,12 @@ I enjoy working across the full stack, from hardware-level design to web interfa
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Data & Engineering**
+**Data & Engineering** *(learning)*
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -55,11 +55,9 @@ I enjoy working across the full stack, from hardware-level design to web interfa
 
 ## 🎯 Currently Focused On
 
-- **Data Engineering fundamentals** — pipelines, ETL processes, data modeling
-- **Backend development** — building robust, scalable systems
-- **Python data stack** — Pandas, NumPy, Matplotlib, Scikit-learn
-- **SQL & databases** — relational modeling, query optimization
-- Building my first end-to-end **data pipeline project**
+- 📚 **DataCamp — Data Engineer with Python** *(in progress)*
+- 📚 **DataCamp — Data Engineer with SQL** *(in progress)*
+- Learning **NumPy**, **Pandas** and **Matplotlib** for data manipulation and analysis
 - Preparing the oral defense for my **8-bit FPGA processor** implementation
 
 ---
