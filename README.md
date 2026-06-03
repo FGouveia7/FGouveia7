@@ -2,7 +2,7 @@
 
 # Francisco Gouveia
 
-**Computer Science Student @ University of Madeira**
+**Computer Engineering Student @ University of Madeira**
 
 [![GitHub](https://img.shields.io/badge/GitHub-FGouveia7-181717?style=flat-square&logo=github)](https://github.com/FGouveia7)
 ![Age](https://img.shields.io/badge/Age-19-blue?style=flat-square)
@@ -15,9 +15,9 @@
 
 ## About Me
 
-I am a 19-year-old Computer Science student at the **University of Madeira**, passionate about building the concept of reliable and well-structured systems from low-level programming to data pipelines and full-stack applications.
+I am a 19-year-old Computer Engineering student at the **University of Madeira**, passionate about building reliable and well-structured systems - from low-level processor design in VHDL to data pipelines and full-stack applications.
 
-My main interest lies in **Data Engineering and Software Development**: designing systems that move, transform, and make sense of data at scale. I am drawn to the intersection of solid engineering principles and data-driven thinking building infrastructure that enables better decisions.
+My main interest lies in **Data Engineering and Software Development**: designing systems that move, transform, and make sense of data at scale. I am drawn to the intersection of solid engineering principles and data-driven thinking - building infrastructure that enables better decisions.
 
 I am actively steering my career toward **data infrastructure, backend systems, and data-intensive applications**.
 
@@ -59,6 +59,19 @@ I am actively steering my career toward **data infrastructure, backend systems, 
 - **DataCamp - Data Engineer with Python** *(in progress)*
 - **DataCamp - Data Engineer with SQL** *(in progress)*
 - Learning **NumPy**, **Pandas** and **Matplotlib** for data manipulation and analysis
+
+---
+
+## DataCamp Certificates
+**Career Track - Data Engineer in Python** (6/18)
+  | Course | Certificate |
+  |--------|-------------|
+  | Understanding Cloud Computing | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/bdd2324e0d894f99781bfa3bc5b8ff4b3ccae1f7) |
+  | Introduction to Python for Developers | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/bdd2324e0d894f99781bfa3bc5b8ff4b3ccae1f7) |
+  | Intermediate Python for Developers | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/7e27fb2d6e56a20cd749b2b51695746e70a4e4c0) |
+  | Introduction to Importing Data in Python | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/7e27fb2d6e56a20cd749b2b51695746e70a4e4c0) |
+  | Intermediate Importing Data in Python | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/799e85b52cbf5ccf03a04698761af7a03fe7197a) |
+  | Introduction to APIs in Python | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/4a1dd07a82413676e7536ab0ad3fbd060b8817b0) |
 
 ---
 
