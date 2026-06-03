@@ -48,7 +48,6 @@ I am actively steering my career toward **data infrastructure, backend systems, 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=jetbrains)
 ![Vivado](https://img.shields.io/badge/Vivado%20ML-E01F27?style=flat-square)
 
 ---
