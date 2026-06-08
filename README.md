@@ -64,7 +64,7 @@ I am actively steering my career toward **data infrastructure, backend systems, 
 ---
 
 ## DataCamp Certificates
-**Career Track - Data Engineer in Python** (9/17)
+**Career Track - Data Engineer in Python** (10/17)
   | Course | Certificate |
   |--------|-------------|
   | Understanding Cloud Computing | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/bdd2324e0d894f99781bfa3bc5b8ff4b3ccae1f7) |
@@ -76,6 +76,8 @@ I am actively steering my career toward **data infrastructure, backend systems, 
   | Cleaning Data in Python | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/4f51bc763f853e2e4812838c30994da35391947d) |
   | Writing Efficient Python Code | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/393e2921e6f6fd062524ea21ac1851de7daed7eb) |
   | Introduction to Git | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/b3dcca5420ee1956ec882efbddd84094c3b8aebb) |
+  | Streamlined Data Ingestion with pandas | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/0ff9a0e499d81fc7113650e668c1bb7c0f642fa6) |
+  
   
 ---
 
