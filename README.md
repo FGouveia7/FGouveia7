@@ -78,26 +78,6 @@ I am actively steering my career toward **data infrastructure, backend systems, 
   | Streamlined Data Ingestion with pandas | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/0ff9a0e499d81fc7113650e668c1bb7c0f642fa6) |
   
   
----
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/FGouveia7">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FGouveia7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FGouveia7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-<br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=FGouveia7&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
 
 ## Get in Touch
 
