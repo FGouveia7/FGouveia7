@@ -58,7 +58,6 @@ I am actively steering my career toward **data infrastructure, backend systems, 
 ## Currently Focused On
 
 - **DataCamp - Data Engineer with Python** *(in progress)*
-- **DataCamp - Data Engineer with SQL** *(in progress)*
 - Learning **NumPy**, **Pandas** and **Matplotlib** for data manipulation and analysis
 
 ---
