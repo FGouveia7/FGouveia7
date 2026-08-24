@@ -62,22 +62,6 @@ I am actively steering my career toward **data infrastructure, backend systems, 
 
 ---
 
-## DataCamp Certificates
-**Career Track - Data Engineer in Python** (10/17)
-  | Course | Certificate |
-  |--------|-------------|
-  | Understanding Cloud Computing | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/bdd2324e0d894f99781bfa3bc5b8ff4b3ccae1f7) |
-  | Introduction to Python for Developers | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/bdd2324e0d894f99781bfa3bc5b8ff4b3ccae1f7) |
-  | Intermediate Python for Developers | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/7e27fb2d6e56a20cd749b2b51695746e70a4e4c0) |
-  | Introduction to Importing Data in Python | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/7e27fb2d6e56a20cd749b2b51695746e70a4e4c0) |
-  | Intermediate Importing Data in Python | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/799e85b52cbf5ccf03a04698761af7a03fe7197a) |
-  | Introduction to APIs in Python | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/4a1dd07a82413676e7536ab0ad3fbd060b8817b0) |
-  | Cleaning Data in Python | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/4f51bc763f853e2e4812838c30994da35391947d) |
-  | Writing Efficient Python Code | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/393e2921e6f6fd062524ea21ac1851de7daed7eb) |
-  | Introduction to Git | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/b3dcca5420ee1956ec882efbddd84094c3b8aebb) |
-  | Streamlined Data Ingestion with pandas | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/0ff9a0e499d81fc7113650e668c1bb7c0f642fa6) |
-  
-  
 
 ## Get in Touch
 
@@ -86,6 +70,7 @@ Open to connecting with other students, developers, and anyone working in Data E
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-FGouveia7-181717?style=for-the-badge&logo=github)](https://github.com/FGouveia7)
+[![LinkedIn](https://img.shields.io/badge/GitHub-FGouveia7-181717?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/francisco-gouveia-bb56673a5/)
 
 </div>
 
