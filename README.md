@@ -64,16 +64,13 @@ I am actively steering my career toward **data infrastructure, backend systems, 
 
 
 ## Get in Touch
-
 Open to connecting with other students, developers, and anyone working in Data Engineering or Software Development.
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-FGouveia7-181717?style=for-the-badge&logo=github)](https://github.com/FGouveia7)
-[![LinkedIn](https://img.shields.io/badge/GitHub-FGouveia7-181717?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/francisco-gouveia-bb56673a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Gouveia-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/francisco-gouveia-bb56673a5/)
 
 </div>
-
 ---
 
 <div align="center">
