@@ -71,7 +71,7 @@ Open to connecting with other students, developers, and anyone working in Data E
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Gouveia-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/francisco-gouveia-bb56673a5/)
 
 </div>
----
+
 
 <div align="center">
 <sub>Built with curiosity and a lot of coffee.</sub>
